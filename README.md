@@ -8,6 +8,12 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DemoFusion-colab/blob/main/DemoFusion_colab.ipynb) | DemoFusion_colab
 
+## 🦆 Kaggle
+
+| Kaggle | Info
+| --- | --- |
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/demofusion) | DemoFusion_kaggle
+
 ## Tutorial
 
 `view_batch_size` (int, defaults to 16): The batch size for multiple denoising paths. Typically, a larger batch size can result in higher efficiency but comes with increased GPU memory requirements. <br />

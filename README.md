@@ -29,3 +29,5 @@ https://arxiv.org/abs/2311.16973
 https://ruoyidu.github.io/demofusion/demofusion.html
 
 ## Output
+
+https://github.com/camenduru/DemoFusion-colab/assets/54370274/6ed1d6d8-0ea1-4cb6-b239-3a1e02a10fb1

@@ -12,9 +12,9 @@
 https://github.com/PRIS-CV/DemoFusion
 
 ## Paper
-
+https://arxiv.org/abs/2311.16973
 
 ## Page
-
+https://ruoyidu.github.io/demofusion/demofusion.html
 
 ## Output

@@ -39,5 +39,3 @@ https://ruoyidu.github.io/demofusion/demofusion.html
 https://github.com/camenduru/DemoFusion-colab/assets/54370274/6ed1d6d8-0ea1-4cb6-b239-3a1e02a10fb1
 
 https://github.com/camenduru/DemoFusion-colab/assets/54370274/927bb386-0626-4877-8123-c00f51c4ed3d
-
-https://github.com/camenduru/DemoFusion-colab/assets/54370274/243c7ffe-8696-42c3-9472-df08cbd2d9c5

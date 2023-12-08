@@ -14,6 +14,7 @@
 | Kaggle | Info
 | --- | --- |
 [![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/demofusion) | DemoFusion_kaggle
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/demofusion-img2img) | DemoFusion_img2img_kaggle
 
 ## Tutorial
 

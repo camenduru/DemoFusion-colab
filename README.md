@@ -18,8 +18,8 @@
 
 ## Tutorial
 
-2028x2048 will take around 700 seconds.
-![Screenshot 2023-12-08 133528](https://github.com/camenduru/DemoFusion-colab/assets/54370274/e4743713-50a3-470b-b606-baf5b817c800)
+2028x2048 will take around 700 seconds. (T4) <br />
+![Screenshot 2023-12-08 133528](https://github.com/camenduru/DemoFusion-colab/assets/54370274/e4743713-50a3-470b-b606-baf5b817c800) <br />
 
 `view_batch_size` (int, defaults to 16): The batch size for multiple denoising paths. Typically, a larger batch size can result in higher efficiency but comes with increased GPU memory requirements. <br />
 `stride` (int, defaults to 64): The stride of moving local patches. A smaller stride is better for alleviating seam issues, but it also introduces additional computational overhead and inference time. <br />

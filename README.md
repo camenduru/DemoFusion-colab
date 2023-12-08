@@ -49,5 +49,7 @@ DemoFusion_img2img_colab
 
 https://github.com/camenduru/DemoFusion-colab/assets/54370274/f41dcf3c-d489-480e-8637-bd4b5559c6ab
 
+https://github.com/camenduru/DemoFusion-colab/assets/54370274/d7777a23-efb2-4cb2-a1f4-a49537fd8f15
+
 ## Sponsor
 https://modelslab.com

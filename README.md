@@ -2,21 +2,21 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-## 🦒 Colab
+### 🦒 Colab
 
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DemoFusion-colab/blob/main/DemoFusion_colab.ipynb) | DemoFusion_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DemoFusion-colab/blob/main/DemoFusion_img2img_colab.ipynb) | DemoFusion_img2img_colab (Thanks to [radamar](https://twitter.com/radamar) ❤)
 
-## 🦆 Kaggle
+### 🦆 Kaggle
 
 | Kaggle | Info
 | --- | --- |
 [![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/demofusion) | DemoFusion_kaggle
 [![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/demofusion-img2img) | DemoFusion_img2img_kaggle
 
-## Tutorial
+### 📋 Tutorial
 
 2048x2048 will take around 800 seconds. (T4) <br />
 ![Screenshot 2023-12-08 133528](https://github.com/camenduru/DemoFusion-colab/assets/54370274/e4743713-50a3-470b-b606-baf5b817c800) <br />
@@ -30,16 +30,16 @@
 `multi_decoder` (bool, defaults to True): Determine whether to use a tiled decoder. Generally, when the resolution exceeds 3072x3072, a tiled decoder becomes necessary. <br />
 `show_image` (bool, defaults to False): Determine whether to show intermediate results during generation. <br />
 
-## Main Repo
+### 🧬 Code
 https://github.com/PRIS-CV/DemoFusion
 
-## Paper
+### 📄 Paper
 https://arxiv.org/abs/2311.16973
 
-## Page
+### 🌐 Page
 https://ruoyidu.github.io/demofusion/demofusion.html
 
-## Output
+### 🖼 Output
 
 https://github.com/camenduru/DemoFusion-colab/assets/54370274/6ed1d6d8-0ea1-4cb6-b239-3a1e02a10fb1
 
@@ -51,5 +51,5 @@ https://github.com/camenduru/DemoFusion-colab/assets/54370274/f41dcf3c-d489-480e
 
 https://github.com/camenduru/DemoFusion-colab/assets/54370274/d7777a23-efb2-4cb2-a1f4-a49537fd8f15
 
-## Sponsor
+### 🏢 Sponsor
 https://modelslab.com
